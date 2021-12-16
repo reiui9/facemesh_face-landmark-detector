@@ -26,3 +26,5 @@ This graph model is constructed by many resBlock. And output branch are 3.
 3. 266 point: I don't know about this 
 
 ![스크린샷 2021-12-14 오후 2 47 30-side](https://user-images.githubusercontent.com/10595278/145940840-35ac911e-c140-46a8-96f3-51404ec92d92.png)
+
+![스크린샷 2021-12-16 오전 10 04 12](https://user-images.githubusercontent.com/10595278/146288985-1a67ce2a-382c-4a27-809f-bd70e7c7b372.png)
